@@ -1,5 +1,26 @@
-# gcc coverage testing tool files
+# Ignore GameMaker Studio 2 build files and temp files
+*.yyz
+*.yyp~
+*.yy.lock
+.yyc/
+.cache/
+.idea/
+backup/
 
-*.gcno
-*.gcda
-*.gcov
+# Ignore compiled extensions
+extensions/
+
+# Ignore project-specific settings and logs
+options_*/config.json
+options_*/steam_config.json
+options_*/diagnostic.json
+project_cache/
+
+# Ignore Windows/Mac system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore logs and debug files
+*.log
+debug/
