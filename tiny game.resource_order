@@ -1,0 +1,21 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Object4","order":3,"path":"objects/Object4/Object4.yy",},
+    {"name":"ObjectBlock","order":4,"path":"objects/ObjectBlock/ObjectBlock.yy",},
+    {"name":"ObjectEndScreen","order":6,"path":"objects/ObjectEndScreen/ObjectEndScreen.yy",},
+    {"name":"ObjectFinish","order":5,"path":"objects/ObjectFinish/ObjectFinish.yy",},
+    {"name":"ObjectSpike","order":2,"path":"objects/ObjectSpike/ObjectSpike.yy",},
+    {"name":"room_EndScreen","order":2,"path":"rooms/room_EndScreen/room_EndScreen.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"sBlock","order":2,"path":"sprites/sBlock/sBlock.yy",},
+    {"name":"sEnemy","order":3,"path":"sprites/sEnemy/sEnemy.yy",},
+    {"name":"sFinish","order":1,"path":"sprites/sFinish/sFinish.yy",},
+    {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"Sprite6","order":5,"path":"sprites/Sprite6/Sprite6.yy",},
+  ],
+}
